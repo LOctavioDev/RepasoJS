@@ -1,7 +1,7 @@
 Este repositorio contiene un repaso de los fundamentos del lenguaje JavaScript.
 
 ## Temas Básicos de JavaScript
-
+<p align="center">
 | Temas                        |
 | ---------------------------- |
 | Variables            |
@@ -11,7 +11,7 @@ Este repositorio contiene un repaso de los fundamentos del lenguaje JavaScript.
 | Arrays en JS             |
 | Iteradores              |
 | Funciones en JS          |
-
+</p>
 
 
 <p align="center">
