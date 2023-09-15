@@ -14,4 +14,4 @@ Este repositorio contiene un repaso de los fundamenotos del luenguaje de JS.
 | Decimal a Octal             | 
 | Numero decimal a Zn         | 
 
-<img src="[https://mangusoft.com/wp-content/uploads/2020/11/recursion-icon-2865934_1280-768x768.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png width="200">
