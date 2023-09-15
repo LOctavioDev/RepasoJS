@@ -1,17 +1,19 @@
-# Repaso de JavaScript
+Este repositorio contiene un repaso de los fundamentos del lenguaje JavaScript.
 
-Este repositorio contiene un repaso de los fundamenotos del luenguaje de JS.
+## Temas Básicos de JavaScript
 
-## Ejercicios
+| Temas                        |
+| ---------------------------- |
+| Variables            |
+| Tipos de datos            |
+| Objetos en JS        |
+| Metodos de Objetos en JS        | 
+| Arrays en JS             |
+| Iteradores              |
+| Funciones en JS          |
 
-| Temas                       | 
-| --------------------------- |
-| Binario a Decimal           |
-| Decimal a Binario           | 
-| Hexadecimal a Decimal       | 
-| Decimal a Hexadecimal       | 
-| Octal a Decimal             | 
-| Decimal a Octal             | 
-| Numero decimal a Zn         | 
+## Imagen de JavaScript
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png width="200">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200">
+</p>
