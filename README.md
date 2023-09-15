@@ -12,7 +12,7 @@ Este repositorio contiene un repaso de los fundamentos del lenguaje JavaScript.
 | Iteradores              |
 | Funciones en JS          |
 
-## Imagen de JavaScript
+
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="200">
