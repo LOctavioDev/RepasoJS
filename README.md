@@ -1,5 +1,7 @@
 <div align="center">
 Este repositorio contiene un repaso de los fundamentos del lenguaje JavaScript.
+
+  
 ## Temas Básicos de JavaScript
 
 | Temas                        |
